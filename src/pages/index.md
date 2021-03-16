@@ -93,16 +93,5 @@ sections:
 
       Garantie
     type: content_section
-  - title: Was Sie davon haben?
-    content: |+
-      Weniger Zeit
-
-      Weniger Aufwand
-
-      Weniger Kopfzerbrechen
-
-      Geringere Kosten
-
-    type: content_section
 template: advanced
 ---
