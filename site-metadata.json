@@ -23,7 +23,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Log",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
