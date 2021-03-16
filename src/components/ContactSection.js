@@ -23,16 +23,9 @@ export default class ContactSection extends React.Component {
                     <label id="email-label" htmlFor="email">Email</label>
                     <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Ihre E-Mail Adresse" required />
                   </div>
-                  <div className="form-group">
-                    <label htmlFor="subject">Ihre Website-Adresse</label>
-                    <div className="form-select-wrap">
-                      <select name="subject" id="subject">
-                        <option value="">Please select</option>
-                        <option value="Business Inquiries">Business Inquiries</option>
-                        <option value="Sponsorship">Partnerships</option>
-                        <option value="Other">Other</option>
-                      </select>
-                    </div>
+                    <div className="form-group">
+                    <label id="domain-label" htmlFor="domain">Email</label>
+                    <input aria-labelledby="domain-label" type="text" name="domain" id="domain" placeholder="Ihre Firmen-Domain" required />
                   </div>
                   <div className="form-group">
                     <label id="message-label" htmlFor="message">Nachricht</label>
