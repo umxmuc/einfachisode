@@ -11,8 +11,8 @@ sections:
         url: '#kennen-sie-diese-probleme-bei-der-iso9001-zertifizierung'
         style: primary
       - type: action
-        label: Kostenlos testen
-        url: /contact
+        label: Kostenlos starten
+        url: /themenübersicht
         style: secondary
     align: left
     image: images/hero.svg
@@ -153,12 +153,9 @@ sections:
 
       **Ihre Garantie**: Wenn Ihnen das System nicht zusagt, zahlen Sie 0,- EUR.
     type: content_section
-  - title: >-
-      Ja, ich will jetzt kostenlos und unverbindlich testen, ob das EinfachISO
-      System für unsere ISO9001 Zertifizierung funktioniert
-    actions:
-      - label: Jetzt kostenlos testen
-        url: /contact
+  - actions:
+      - label: Jetzt kostenlos starten
+        url: /themenübersicht
         style: primary
         new_window: false
         no_follow: false
@@ -166,7 +163,9 @@ sections:
     has_background: true
     background_color: gray
     type: cta_section
-    subtitle: 'Einfach hier klicken und kurzen Fragebogen ausfüllen:'
+    title: >-
+      Ja, ich will kostenlos und unverbindlich mit dem effecitveISO System
+      starten
   - title: Häufig gestellte Fragen
     content: >
       ### Was unterscheidet effectiveISO von anderen Lösungen?
