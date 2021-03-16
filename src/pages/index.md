@@ -49,6 +49,8 @@ sections:
     type: content_section
   - title: Warum ist das so?
     content: |
+      Durchdachtes Prinzip
+
       Alles an einem Ort
 
       Einfaches Schritt-für-Schritt Vorgehen
