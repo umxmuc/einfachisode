@@ -24,7 +24,7 @@
             },
             {
                 "label": "Log out",
-                "url": "lorem-ipsum",
+                "url": "#/ms/logout",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
