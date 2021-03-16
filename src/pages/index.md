@@ -37,6 +37,18 @@ sections:
 
       Zeitfresser
     type: content_section
+  - title: Was sind die Ursachen?
+    content: |
+      Viele Normforderungen
+
+      Komplizierte Normensprache
+
+      Viele Querverweise
+
+      Integration in Struktur
+
+      Künftige Pflege
+    type: content_section
   - title: Was Sie davon haben?
     content: |
       Weniger Zeit
@@ -68,18 +80,6 @@ sections:
       Expertenstimmen: 
 
       Garantie:
-    type: content_section
-  - title: Was sind die Ursachen?
-    content: |
-      Viele Normforderungen
-
-      Komplizierte Normensprache
-
-      Viele Querverweise
-
-      Integration in Struktur
-
-      Künftige Pflege
     type: content_section
 template: advanced
 ---
