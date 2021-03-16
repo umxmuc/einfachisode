@@ -142,8 +142,8 @@ sections:
       **Ihre Garantie**: Wenn Ihnen das System nicht zusagt, zahlen Sie 0,- EUR.
     type: content_section
   - title: >-
-      Ja, prüfen Sie kostenlos und unverbindlich, ob das EinfachISO System für
-      unsere ISO9001 Zertifizierung funktioniert
+      Ja, ich will jetzt kostenlos und unverbindlich testen, ob das EinfachISO
+      System für unsere ISO9001 Zertifizierung funktioniert
     subtitle: lorem-ipsum
     actions:
       - label: Jetzt kostenlos testen
