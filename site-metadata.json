@@ -23,7 +23,7 @@
                 "type": "action"
             },
             {
-                "label": "Profil",
+                "label": "Mein Profil",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
