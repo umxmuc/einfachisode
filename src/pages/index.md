@@ -146,7 +146,7 @@ sections:
       System für unsere ISO9001 Zertifizierung funktioniert
     actions:
       - label: Jetzt kostenlos testen
-        url: lorem-ipsum
+        url: /contact
         style: primary
         new_window: false
         no_follow: false
