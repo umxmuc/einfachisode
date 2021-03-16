@@ -24,12 +24,12 @@ export default class ContactSection extends React.Component {
                     <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Ihre E-Mail Adresse" required />
                   </div>
                     <div className="form-group">
-                    <label id="domain-label" htmlFor="domain">Email</label>
+                    <label id="domain-label" htmlFor="domain">Firmen-Domain</label>
                     <input aria-labelledby="domain-label" type="text" name="domain" id="domain" placeholder="Ihre Firmen-Domain" required />
                   </div>
                   <div className="form-group">
                     <label id="message-label" htmlFor="message">Nachricht</label>
-                    <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Ihre Nachricht" />
+                    <textarea aria-labelledby="message-label" name="message" id="message" rows="4" placeholder="Ihre Nachricht (optional)" />
                   </div>
                   <div className="form-group form-checkbox">
                     <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
