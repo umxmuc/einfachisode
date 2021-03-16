@@ -8,7 +8,7 @@ sections:
     actions:
       - type: action
         label: Mehr erfahren
-        url: '#kennen-sie-diese-probleme-der-iso9001-zertifizierung'
+        url: '#kennen-sie-diese-probleme-bei-der-iso9001-zertifizierung'
         style: primary
       - type: action
         label: Kostenlos testen
