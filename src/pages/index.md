@@ -192,6 +192,14 @@ sections:
 
       Ein System mit vielen Teilen an vielen Stellen ist komplex. Je **weniger
       Teile** und je **mehr zusammengefasst**, desto einfacher.
+
+
+      ## Was sagen Experten zu dem System?
+
+
+      Unser Auditor hat das System "brilliant" und "einzigartig" genannt. Das,
+      obwohl er seit über 20 Jahren im Geschäft ist und als Lead-Auditor
+      arbeitet. 
     type: content_section
 template: advanced
 ---
