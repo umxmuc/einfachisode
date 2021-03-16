@@ -173,10 +173,16 @@ sections:
 
 
       Andere Lösungen versuchen meist, mit mehr Informations-Volumen Mehrwert zu
-      liefern. Aus eigener Erfahrung haben wir gelernt: Wir brauchen nicht mehr
-      Information, sondern ein einfaches Setup, das uns schnell und mit
-      geringstmöglichem Aufwand zum Zertifikat bringt. Genau das liefert
-      effectiveISO.
+      liefern. Mehr Text, mehr Erklärungen, mehr Videos. Aus eigener Erfahrung
+      haben wir gelernt: Wir brauchen nicht mehr Information, sondern ein
+      robustes und einfaches Setup, das uns schnell und mit geringstmöglichem
+      Aufwand zum Zertifikat bringt. Genau das liefert effectiveISO. Es ist ein
+      einzigartiger QM-System-Ansatz, kein umfassendes Info-Paket.
+
+
+      Wir versuchen die Aufgabe bewusst nicht mit einer Informationsflut zu
+      lösen. Wenn Sie eine einfache Erklärung wünschen, empfehlen wir Ihnen
+      folgende Quellen: ....
 
 
       ### Warum spare ich mit dem effectiveISO-Ansatz so viel Zeit und Aufwand?
@@ -194,12 +200,20 @@ sections:
       Teile** und je **mehr zusammengefasst**, desto einfacher.
 
 
-      ## Was sagen Experten zu dem System?
+      ### Was erhalte ich denn genau mit dem effectiveISO Paket?
+
+
+      Sie erhalten eine schlüsselfertige Vorlage für ein ISO9001 QM-System. Sie
+      müssen diese Vorlage nur noch auf Ihren speziellen Bedarf hin ausfüllen.
+      Die Vorlage ist in Form einer einfachen Datenbank. 
+
+
+      ### Was sagen Experten zu dem System?
 
 
       Unser Auditor hat das System "brilliant" und "einzigartig" genannt. Das,
       obwohl er seit über 20 Jahren im Geschäft ist und als Lead-Auditor
-      arbeitet. 
+      arbeitet.
     type: content_section
 template: advanced
 ---
