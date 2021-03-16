@@ -148,7 +148,7 @@ sections:
     actions:
       - label: Jetzt kostenlos testen
         url: lorem-ipsum
-        style: link
+        style: primary
         new_window: false
         no_follow: false
         type: action
