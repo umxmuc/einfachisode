@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - content: >
-      ## Was ist das Problem?
+      ## Wo liegt das Problem mit der ISO9001 Zertifizierung?
 
 
       Mühsam
@@ -62,7 +62,7 @@ sections:
       Künftige Pflege
 
 
-      ## Was ist die Lösung?
+      ## Wie sieht die Lösung aus?
 
 
       Alles an einer Stelle
@@ -74,37 +74,30 @@ sections:
       Querverweise
 
 
-      ## Welchen Nutzen haben Sie?
+      ## Was haben Sie davon?
 
 
-      Weniger Zeit
+      **Weniger Zeit**: Sie erreichen Ihre ISO9001-Zertifizierung doppelt so
+      schnell. **Warum?** Weil Sie eine schlüsselfertige Lösung haben, die Sie
+      nur noch Schritt-für-Schritt durchgehen müssen.
 
 
-      Weniger Aufwand
+      **Weniger Aufwand**: Sie reduzieren Ihren Aufwand für die
+      Erstzertifizierung und für die Zeit danach. **Warum?** Weil alles, was Sie
+      brauchen an einer Zentralen Stelle bleibt. Das macht Ihr QM-System
+      einfacher und leichter zu handhaben.
 
 
-      Weniger Kopfzerbrechen
+      **Weniger Kopfzerbrechen**: Sie haben nicht mehr das Gefühl, von dem
+      "ISO-Projekt" überwältigt zu werden. Warum? Weil Sie ein einfaches und
+      vollständiges System nutzen, das alles beisammen hält und Licht ins Dunkel
+      bringt.
 
 
-      Geringere Kosten
-
-
-      **Warum?**
-
-
-      Durchdachtes Prinzip
-
-
-      Alles an einem Ort
-
-
-      Einfaches Schritt-für-Schritt Vorgehen
-
-
-      Querverweise einfach gemacht
-
-
-      Das System wächst mit
+      **Geringere Kosten**: Sie sparen Ihre eigne Zeit, die Ihrer Kollegen und
+      Vorgesetzen und Sie sparen Beraterkosten. **Warum?** Da Sie ein einfaches
+      und in sich schlüssiges Setup haben, das auf einem durchdachten Prinzip
+      basiert.
 
 
       ## Wie ist das sichergestellt?
