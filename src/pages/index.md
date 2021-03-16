@@ -11,7 +11,7 @@ sections:
         url: /features
         style: primary
       - type: action
-        label: Kostenlose Themenübersicht erhalten
+        label: EinfachISO Bestellen
         url: /themenuebersicht
         style: secondary
     align: left
