@@ -163,7 +163,7 @@ sections:
     subtitle: 'Einfach hier klicken und kurzen Fragebogen ausfüllen:'
   - title: Häufig gestellte Fragen
     content: >
-      ## Was unterscheidet effectiveISO von anderen Lösungen?
+      ### Was unterscheidet effectiveISO von anderen Lösungen?
 
 
       Andere Lösungen versuchen meist, mit mehr Informations-Volumen Mehrwert zu
@@ -173,7 +173,7 @@ sections:
       effectiveISO.
 
 
-      ## Warum spare ich mit dem effectiveISO-Ansatz so viel Zeit und Aufwand?
+      ### Warum spare ich mit dem effectiveISO-Ansatz so viel Zeit und Aufwand?
 
 
       Weil er alle Normforderungen an eine Stelle bringt. Mit einer zentralen
@@ -181,7 +181,7 @@ sections:
       Das ist viel einfacher, als die Elemente breit zu verteilen.
 
 
-      ## Welchem Prinzip folgt der effectiveISO-Ansatz?
+      ### Welchem Prinzip folgt der effectiveISO-Ansatz?
 
 
       Ein System mit vielen Teilen an vielen Stellen ist komplex. Je **weniger
