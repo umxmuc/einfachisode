@@ -39,7 +39,7 @@ export default class ContactSection extends React.Component {
                     <label id="consent-label" htmlFor="consent">Ich stimme zu, dass meine Daten zur Erstellung und dem Versand einer Themenübersicht verarbeitet werden.</label>
                   </div>
                   <div className="form-submit">
-                    <button type="submit" className="button">Kostenlosprüfenlassen</button>
+                    <button type="submit" className="button">Kostenlos prüfenlassen</button>
                   </div>
                 </form>
               </div>
