@@ -65,19 +65,22 @@ sections:
       ## Wie sieht die Lösung aus?
 
 
-      **Alle Normforderungen als Liste**: 
+      **Zentrale Anlaufstelle:**
 
 
-      **Einfache Erklärung der Forderungen**: 
+      **Alle Normforderungen als Liste**:
 
 
-      **Querverweise vereinfacht**: 
+      **Einfache Erklärung der Forderungen**:
 
 
-      **Schlanke Integration**: 
+      **Querverweise vereinfacht**:
 
 
-      **Einfach zu pflegen**: 
+      **Schlanke Integration**:
+
+
+      **Einfach zu pflegen**:
 
 
       ## Was haben Sie davon?
