@@ -24,7 +24,7 @@
             },
             {
                 "label": "Mein Profil",
-                "url": "lorem-ipsum",
+                "url": "#/ms/profile",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
