@@ -15,16 +15,16 @@
                 "type": "action"
             },
             {
-                "label": "Log out",
-                "url": "#/ms/logout",
+                "label": "Mein Profil",
+                "url": "#/ms/profile",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
             },
             {
-                "label": "Mein Profil",
-                "url": "#/ms/profile",
+                "label": "Log out",
+                "url": "#/ms/logout",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
