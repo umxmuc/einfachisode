@@ -36,17 +36,14 @@ sections:
       Geringere Kosten
     type: content_section
   - title: Warum ist das so?
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Alles an einem Ort
 
+      Einfaches Schritt-für-Schritt Vorgehen
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Querverweise einfach gemacht
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Das System wächst mit
     type: content_section
 template: advanced
 ---
