@@ -197,34 +197,25 @@ sections:
       Das ist viel einfacher, als die Elemente breit zu verteilen.
 
 
-      *   Norm-Forderungen
+      Norm-Forderungen  
 
+      Prozesse  
 
-      *   Prozesse
+      Interessierte Parteien  
 
+      Themen  
 
-      *   Interessierte Parteien
+      Anforderungen  
 
+      Maßnahmen  
 
-      *   Themen
+      Dokumentation  
 
+      Qualitätsziele  
 
-      *   Anforderungen
+      Rollen  
 
-
-      *   Maßnahmen
-
-
-      *   Dokumentation
-
-
-      *   Qualitätsziele
-
-
-      *   Rollen
-
-
-      *   Chancen und Risiken
+      Chancen und Risiken
 
 
       Alles ist an einem Ort. Einfach aufzubauen und zu pflegen.
