@@ -46,17 +46,16 @@ sections:
       Das System wächst mit
     type: content_section
   - title: Wo liegt das Problem?
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Mühsam
 
+      Aufwändig
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Kompliziert
 
+      Pain in the ass
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Zeitfresser
     type: content_section
 template: advanced
 ---
