@@ -159,17 +159,23 @@ sections:
     type: cta_section
     subtitle: 'Einfach hier klicken und kurzen Fragebogen ausfüllen:'
   - title: FAQ
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Was unterscheidet effectiveISO von anderen Lösungen?
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Andere Lösungen versuchen meist, mit mehr Informations-Volumen Mehrwert zu
+      liefern. Aus eigener Erfahrung haben wir gelernt, dass wir nicht mehr
+      Information brauchen. Wir haben ein möglichst einfaches Setup gesucht, das
+      uns schnell und mit geringstmöglichem Aufwand zum Zertifikat bringt. Genau
+      das liefert effectiveISO.
 
 
-      - Lorem ipsum
+      ## Warum spare ich mit dem effectiveISO-Ansatz so viel Zeit und Aufwand?
 
-      - dolor sit amet
+
+      Weil er alle Normforderungen an eine Stelle bringt. Mit einer zentralen
+      Anlaufstelle, können Sie auch alles an einem Ort einrichten und pflegen.
+      Das ist viel einfacher, als die Elemente breit zu verteilen.
     type: content_section
 template: advanced
 ---
