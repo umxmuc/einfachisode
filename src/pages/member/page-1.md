@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Seite 1
 excerpt: lorem-ipsum
 template: page
 ---
