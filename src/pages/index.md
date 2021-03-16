@@ -25,6 +25,18 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - title: Wo liegt das Problem?
+    content: |
+      Mühsam
+
+      Aufwändig
+
+      Kompliziert
+
+      Pain in the ass
+
+      Zeitfresser
+    type: content_section
   - title: Was Sie davon haben?
     content: |
       Weniger Zeit
@@ -44,18 +56,6 @@ sections:
       Querverweise einfach gemacht
 
       Das System wächst mit
-    type: content_section
-  - title: Wo liegt das Problem?
-    content: |
-      Mühsam
-
-      Aufwändig
-
-      Kompliziert
-
-      Pain in the ass
-
-      Zeitfresser
     type: content_section
 template: advanced
 ---
