@@ -65,13 +65,19 @@ sections:
       ## Wie sieht die Lösung aus?
 
 
-      Alles an einer Stelle
+      **Alle Normforderungen als Liste**: 
 
 
-      Einfache Checkliste
+      **Einfache Erklärung der Forderungen**: 
 
 
-      Querverweise
+      **Querverweise vereinfacht**: 
+
+
+      **Schlanke Integration**: 
+
+
+      **Einfach zu pflegen**: 
 
 
       ## Was haben Sie davon?
