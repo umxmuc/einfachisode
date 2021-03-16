@@ -141,5 +141,11 @@ sections:
 
       **Ihre Garantie**: Wenn Ihnen das System nicht zusagt, zahlen Sie 0,- EUR.
     type: content_section
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 template: advanced
 ---
