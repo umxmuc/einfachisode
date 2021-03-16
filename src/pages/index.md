@@ -111,6 +111,10 @@ sections:
       einfacher und leichter zu handhaben.
 
 
+      **Einfacheres Audit**: Stellen Sie sich vor, sie haben 90% aller für das
+      Audit notwendigen Daten und Informationen online an einer Stelle.
+
+
       **Geringere Kosten**: Sie sparen Ihre eigne Zeit, die Ihrer Kollegen und
       Vorgesetzen und Sie sparen Beraterkosten. **Warum?** Da Sie ein einfaches
       und in sich schlüssiges Setup haben, das auf einem durchdachten Prinzip
