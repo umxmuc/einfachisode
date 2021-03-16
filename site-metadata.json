@@ -8,12 +8,6 @@
         "nav_links": [
             {
                 "type": "action",
-                "label": "Services",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "type": "action",
                 "label": "Über",
                 "url": "/about",
                 "style": "link"
