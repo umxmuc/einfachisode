@@ -69,7 +69,7 @@ sections:
 
       Garantie:
     type: content_section
-  - title: lorem-ipsum
+  - title: Was sind die Ursachen?
     content: >-
       ## Lorem ipsum
 
