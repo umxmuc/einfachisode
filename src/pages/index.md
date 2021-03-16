@@ -35,7 +35,7 @@ sections:
 
       Geringere Kosten
     type: content_section
-  - title: lorem-ipsum
+  - title: Warum ist das so?
     content: >-
       ## Lorem ipsum
 
