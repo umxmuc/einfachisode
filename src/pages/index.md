@@ -80,7 +80,7 @@ sections:
       Garantie
     type: content_section
   - title: Was Sie davon haben?
-    content: |
+    content: |+
       Weniger Zeit
 
       Weniger Aufwand
@@ -89,17 +89,6 @@ sections:
 
       Geringere Kosten
 
-      Warum?
-
-      Durchdachtes Prinzip
-
-      Alles an einem Ort
-
-      Einfaches Schritt-für-Schritt Vorgehen
-
-      Querverweise einfach gemacht
-
-      Das System wächst mit
     type: content_section
 template: advanced
 ---
