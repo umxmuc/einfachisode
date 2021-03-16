@@ -146,7 +146,7 @@ sections:
       unsere ISO9001 Zertifizierung funktioniert
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: 'Jetzt kostenlos '
         url: lorem-ipsum
         style: link
         new_window: false
