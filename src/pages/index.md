@@ -87,6 +87,8 @@ sections:
 
       Erfolgreiche Zertifizierung
 
+      Kundenstimmen
+
       Expertenstimmen
 
       Garantie
