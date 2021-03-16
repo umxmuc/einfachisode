@@ -7,7 +7,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Login",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
