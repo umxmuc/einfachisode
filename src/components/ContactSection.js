@@ -5,7 +5,7 @@ export default class ContactSection extends React.Component {
         return (
             <section className="section">
               <div className="container container--md">
-                <form name="contactForm" id="contactForm" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+                <form name="contactForm" id="contactForm" method="POST" action="/danke" data-netlify="true" data-netlify-honeypot="bot-field">
                   <div className="sr-only">
                     <label id="honeypot-label" htmlFor="honeypot">Don't fill this out if you're human:</label>
                     <input aria-labelledby="honeypot-label" id="honeypot" name="bot-field" />
@@ -37,6 +37,7 @@ export default class ContactSection extends React.Component {
                   </div>
                   <div className="form-submit">
                     <button type="submit" className="button">Kostenlos prüfen lassen</button>
+
                   </div>
                 </form>
               </div>
