@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Vielen Dank!
 excerpt: lorem-ipsum
 template: page
 ---
