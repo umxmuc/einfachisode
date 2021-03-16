@@ -58,17 +58,14 @@ sections:
       Das System wächst mit
     type: content_section
   - title: Wie ist das sichergestellt?
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Überzeugendes Prinzip:
 
+      Erfolgreiche Zertifizierung: 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Expertenstimmen: 
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Garantie:
     type: content_section
 template: advanced
 ---
