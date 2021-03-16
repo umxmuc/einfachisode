@@ -65,7 +65,7 @@ sections:
       ## Wie sieht die Lösung aus?
 
 
-      Eine gute Lösung beseitigt die größten Probleme auf Basis ihrer Ursachen:
+      Eine gute Lösung beseitigt die größten Probleme anhand der Ursachen:
 
 
       **Zentrale Anlaufstelle:** Das QM-System wird nicht möglichst tief in Ihr
