@@ -197,6 +197,39 @@ sections:
       Das ist viel einfacher, als die Elemente breit zu verteilen.
 
 
+      *   Norm-Forderungen
+
+
+      *   Prozesse
+
+
+      *   Interessierte Parteien
+
+
+      *   Themen
+
+
+      *   Anforderungen
+
+
+      *   Maßnahmen
+
+
+      *   Dokumentation
+
+
+      *   Qualitätsziele
+
+
+      *   Rollen
+
+
+      *   Chancen und Risiken
+
+
+      Alles ist an einem Ort. Einfach aufzubauen und zu pflegen.
+
+
       ### Welchem Prinzip folgt der effectiveISO-Ansatz?
 
 
