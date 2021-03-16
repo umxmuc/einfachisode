@@ -163,7 +163,6 @@ sections:
     has_background: true
     background_color: gray
     type: cta_section
-    subtitle: 'Einfach hier klicken und kurzen Fragebogen ausfüllen:'
     title: >-
       Ja, ich will kostenlos und unverbindlich mit dem effecitveISO System
       starten
