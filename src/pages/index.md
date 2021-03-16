@@ -158,7 +158,7 @@ sections:
     background_color: gray
     type: cta_section
     subtitle: 'Einfach hier klicken und kurzen Fragebogen ausfüllen:'
-  - title: lorem-ipsum
+  - title: FAQ
     content: >-
       ## Lorem ipsum
 
