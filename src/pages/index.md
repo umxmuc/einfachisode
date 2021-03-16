@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Wo liegt das Problem?
-    content: |+
+    content: |
       ## Was ist das Problem?
 
       Mühsam
@@ -71,6 +71,13 @@ sections:
 
       ## Wie ist das sichergestellt?
 
+      Überzeugendes Prinzip
+
+      Erfolgreiche Zertifizierung
+
+      Expertenstimmen
+
+      Garantie
     type: content_section
   - title: Was Sie davon haben?
     content: |
