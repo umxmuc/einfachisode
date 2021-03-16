@@ -12,7 +12,7 @@ sections:
         style: primary
       - type: action
         label: Kostenlos testen
-        url: /themenuebersicht
+        url: /contact
         style: secondary
     align: left
     image: /images/dianne-ameter.jpg
