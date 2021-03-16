@@ -5,14 +5,7 @@
         "type": "header",
         "title": "effectiveISO.de",
         "has_nav": true,
-        "nav_links": [
-            {
-                "type": "action",
-                "label": "Über",
-                "url": "/about",
-                "style": "link"
-            }
-        ]
+        "nav_links": []
     },
     "footer": {
         "type": "footer",
