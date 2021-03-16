@@ -68,22 +68,25 @@ sections:
       Eine gute Lösung beseitigt die größten Probleme auf Basis ihrer Ursachen:
 
 
-      **Zentrale Anlaufstelle:**
+      **Zentrale Anlaufstelle:** Das QM-System wird nicht möglichst tief in Ihr
+      Unternehmen verteilt und integriert. Denn das schafft Komplexität und
+      Aufwand. Das QM-System wird zentral an einer Stelle gehalten. Dort kann es
+      einfach eingerichtet und gepflegt werden.
 
 
-      **Alle Normforderungen als Liste**:
+      **Alle Normforderungen als Liste**: Sie haben die Normforderungen nicht
+      verklausuliert im ISO9001-Text, sondern einzeln und vollständig als
+      Checkliste. So können Sie jeden Punkt Schritt-für-Schritt abarbeiten.
 
 
-      **Einfache Erklärung der Forderungen**:
+      **Einfache Erklärung der Forderungen**: Die Forderungen der Norm sind
+      eingedeutscht und erklärt.
 
 
-      **Querverweise vereinfacht**:
-
-
-      **Schlanke Integration**:
-
-
-      **Einfach zu pflegen**:
+      **Querverweise vereinfacht**: Die Querverweise sind eine der größten
+      Hürden bei der ISO9001-Zertifizierung. Eine gute Lösung vereinfacht sie
+      und fasst sie zusammen. Sie haben alles im Überblick. Der Nebel lichtet
+      sich.
 
 
       ## Was haben Sie davon?
