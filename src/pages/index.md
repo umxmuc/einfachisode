@@ -157,7 +157,7 @@ sections:
       Ja, ich will jetzt kostenlos und unverbindlich testen, ob das EinfachISO
       System für unsere ISO9001 Zertifizierung funktioniert
     actions:
-      - label: Jetzt kostenlos testen
+      - label: Jetzt kostenlos starten
         url: /contact
         style: primary
         new_window: false
