@@ -144,7 +144,6 @@ sections:
   - title: >-
       Ja, ich will jetzt kostenlos und unverbindlich testen, ob das EinfachISO
       System für unsere ISO9001 Zertifizierung funktioniert
-    subtitle: lorem-ipsum
     actions:
       - label: Jetzt kostenlos testen
         url: lorem-ipsum
