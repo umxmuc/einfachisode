@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Mitgliederbereich
 excerpt: lorem-ipsum
 template: page
 ---
