@@ -15,7 +15,7 @@ sections:
         url: /start
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/effectiveISO-dashboard.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
