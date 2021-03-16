@@ -153,7 +153,7 @@ sections:
         no_follow: false
         type: action
     has_background: false
-    background_color: white
+    background_color: gray
     type: cta_section
 template: advanced
 ---
