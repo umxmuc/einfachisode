@@ -51,18 +51,6 @@ sections:
 
       Künftige Pflege
     type: content_section
-  - title: Was sind die Ursachen?
-    content: |
-      Viele Normforderungen
-
-      Komplizierte Normensprache
-
-      Viele Querverweise
-
-      Integration in Struktur
-
-      Künftige Pflege
-    type: content_section
   - title: Was ist die Lösung?
     content: |
       Alles an einer Stelle
