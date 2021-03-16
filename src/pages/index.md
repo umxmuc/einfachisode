@@ -27,6 +27,8 @@ sections:
       background_image_repeat: repeat
   - title: Wo liegt das Problem?
     content: |
+      # Was ist das Problem?
+
       Mühsam
 
       Aufwändig
@@ -36,6 +38,8 @@ sections:
       Pain in the ass
 
       Zeitfresser
+
+      # Was sind die Ursachen?
     type: content_section
   - title: Was sind die Ursachen?
     content: |
