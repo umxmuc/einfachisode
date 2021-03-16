@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: >-
-      Erfolgreiche ISO9001 Zertifizierung in der halben Zeit, zum halben Aufwand
-      - Garantiert
+      Ein neuer Ansatz für eine erfolgreiche ISO9001 Zertifizierung in der
+      halben Zeit, zum halben Aufwand - Garantiert
     actions:
       - type: action
         label: Mehr erfahren
