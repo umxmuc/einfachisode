@@ -103,7 +103,9 @@ sections:
       ## Wie ist das sichergestellt?
 
 
-      **Überzeugendes Prinzip**: Alles an einem Ort und Schritt-für-Schritt.
+      **Überzeugendes Prinzip**: "Alles an einem Ort" ist das Grundprinzip des
+      effectiveISO-Ansatzes. Das schafft Einfachheit, Klarheit und macht das
+      QM-System leichter zu handhaben.
 
 
       **Erfolgreiche Zertifizierung**: Unser Geschäftsbereich wurde erfolgreich
