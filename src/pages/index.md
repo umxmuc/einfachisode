@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Wo liegt das Problem?
-    content: |+
+    content: |
       ## Was ist das Problem?
 
       Mühsam
@@ -61,6 +61,13 @@ sections:
 
       ## Welchen Nutzen haben Sie?
 
+      Weniger Zeit
+
+      Weniger Aufwand
+
+      Weniger Kopfzerbrechen
+
+      Geringere Kosten
     type: content_section
   - title: Was ist die Lösung?
     content: |
