@@ -82,17 +82,12 @@ sections:
       Garantie:
     type: content_section
   - title: Was ist die Lösung?
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Alles an einer Stelle
 
+      Einfache Checkliste
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Querverweise
     type: content_section
 template: advanced
 ---
