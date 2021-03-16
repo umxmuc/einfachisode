@@ -113,15 +113,5 @@ sections:
 
       Das System wächst mit
     type: content_section
-  - title: Wie ist das sichergestellt?
-    content: |
-      Überzeugendes Prinzip:
-
-      Erfolgreiche Zertifizierung: 
-
-      Expertenstimmen: 
-
-      Garantie:
-    type: content_section
 template: advanced
 ---
