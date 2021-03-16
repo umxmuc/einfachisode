@@ -164,6 +164,9 @@ sections:
     background_color: gray
     type: cta_section
     subtitle: 'Einfach hier klicken und kurzen Fragebogen ausfüllen:'
+    title: >-
+      Ja, ich will kostenlos und unverbindlich mit dem effecitveISO System
+      starten
   - title: Häufig gestellte Fragen
     content: >
       ### Was unterscheidet effectiveISO von anderen Lösungen?
