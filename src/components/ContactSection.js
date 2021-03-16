@@ -11,9 +11,13 @@ export default class ContactSection extends React.Component {
                     <input aria-labelledby="honeypot-label" id="honeypot" name="bot-field" />
                   </div>
                   <input aria-labelledby="honeypot-label" type="hidden" name="form-name" value="contactForm" />
+                    <div className="form-group">
+                    <label id="company-label" htmlFor="company">Ihre Firma</label>
+                    <input aria-labelledby="company-label" type="text" name="company" id="company" placeholder="Ihre Firma" required />
+                  </div>
                   <div className="form-group">
                     <label id="name-label" htmlFor="name">Name</label>
-                    <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Ihr Name" required />
+                    <input aria-labelledby="name-label" type="text" name="name" id="name" placeholder="Ihr Vor und Nachname" required />
                   </div>
                   <div className="form-group">
                     <label id="email-label" htmlFor="email">Email</label>
@@ -36,7 +40,7 @@ export default class ContactSection extends React.Component {
                   </div>
                   <div className="form-group form-checkbox">
                     <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
-                    <label id="consent-label" htmlFor="consent">Ich stimme zu, dass meine Daten zur Erstellung und dem Versand einer Themenübersicht verarbeitet werden.</label>
+                    <label id="consent-label" htmlFor="consent">Ich stimme zu, dass meine Daten zur Bearbeitung meiner Anfrage verarbeitet werden.</label>
                   </div>
                   <div className="form-submit">
                     <button type="submit" className="button">Kostenlos prüfen lassen</button>
