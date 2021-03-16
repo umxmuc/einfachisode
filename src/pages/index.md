@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Wo liegt das Problem?
-    content: |
+    content: |+
       ## Was ist das Problem?
 
       Mühsam
@@ -50,6 +50,9 @@ sections:
       Integration in Struktur
 
       Künftige Pflege
+
+      ## Was ist die Lösung?
+
     type: content_section
   - title: Was ist die Lösung?
     content: |
