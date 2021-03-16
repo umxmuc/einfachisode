@@ -26,17 +26,14 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Weniger Zeit
 
+      Weniger Aufwand
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Weniger Kopfzerbrechen
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Geringere Kosten
     type: content_section
 template: advanced
 ---
