@@ -11,7 +11,7 @@ sections:
         url: '#kennen-sie-diese-probleme-bei-der-iso9001-zertifizierung'
         style: primary
       - type: action
-        label: Kostenlos testen
+        label: Kostenlos starten
         url: /contact
         style: secondary
     align: left
