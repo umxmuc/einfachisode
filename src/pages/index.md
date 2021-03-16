@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Wo liegt das Problem?
-    content: |+
+    content: |
       ## Was ist das Problem?
 
       Mühsam
@@ -53,6 +53,11 @@ sections:
 
       ## Was ist die Lösung?
 
+      Alles an einer Stelle
+
+      Einfache Checkliste
+
+      Querverweise
     type: content_section
   - title: Was ist die Lösung?
     content: |
