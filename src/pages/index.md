@@ -70,17 +70,16 @@ sections:
       Garantie:
     type: content_section
   - title: Was sind die Ursachen?
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Viele Normforderungen
 
+      Komplizierte Normensprache
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Viele Querverweise
 
+      Integration in Struktur
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Künftige Pflege
     type: content_section
 template: advanced
 ---
