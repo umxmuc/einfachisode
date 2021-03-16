@@ -69,6 +69,18 @@ sections:
 
       Geringere Kosten
 
+      **Warum?**
+
+      Durchdachtes Prinzip
+
+      Alles an einem Ort
+
+      Einfaches Schritt-für-Schritt Vorgehen
+
+      Querverweise einfach gemacht
+
+      Das System wächst mit
+
       ## Wie ist das sichergestellt?
 
       Überzeugendes Prinzip
