@@ -23,7 +23,7 @@
                 "type": "action"
             },
             {
-                "label": "Log",
+                "label": "Log out",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
