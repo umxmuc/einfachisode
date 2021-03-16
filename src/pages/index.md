@@ -155,7 +155,7 @@ sections:
     type: content_section
   - actions:
       - label: Jetzt kostenlos starten
-        url: /contact
+        url: /themenübersicht
         style: primary
         new_window: false
         no_follow: false
