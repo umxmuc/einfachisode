@@ -49,6 +49,14 @@ sections:
 
       Künftige Pflege
     type: content_section
+  - title: Was ist die Lösung?
+    content: |
+      Alles an einer Stelle
+
+      Einfache Checkliste
+
+      Querverweise
+    type: content_section
   - title: Was Sie davon haben?
     content: |
       Weniger Zeit
@@ -80,14 +88,6 @@ sections:
       Expertenstimmen: 
 
       Garantie:
-    type: content_section
-  - title: Was ist die Lösung?
-    content: |
-      Alles an einer Stelle
-
-      Einfache Checkliste
-
-      Querverweise
     type: content_section
 template: advanced
 ---
