@@ -165,9 +165,7 @@ sections:
     has_background: true
     background_color: gray
     type: cta_section
-    title: >-
-      Ja, ich will kostenlos und unverbindlich mit dem effecitveISO System
-      starten
+    title: Kostenlos und unverbindlich mit dem effecitveISO System starten
   - title: Häufig gestellte Fragen
     content: >
       ### Was unterscheidet effectiveISO von anderen Lösungen?
