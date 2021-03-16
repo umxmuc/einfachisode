@@ -1,0 +1,72 @@
+{
+    "title": "effectiveTraffic.de",
+    "description": "effectiveTraffic.de",
+    "header": {
+        "type": "header",
+        "title": "effectiveTraffic.de",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Services",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Über",
+                "url": "/about",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Kontakt",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Datenschutz",
+                "url": "/terms",
+                "style": "link"
+            }
+        ],
+        "has_social": false,
+        "social_links": [
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "GitHub",
+                "url": "https://github.com/",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "link",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; 1999-2020  effectiveTraffic GmbH. All rights reserved."
+    }
+}
