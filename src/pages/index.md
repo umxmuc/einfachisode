@@ -45,7 +45,7 @@ sections:
 
       Das System wächst mit
     type: content_section
-  - title: lorem-ipsum
+  - title: Wo liegt das Problem?
     content: >-
       ## Lorem ipsum
 
