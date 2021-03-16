@@ -167,10 +167,10 @@ sections:
 
 
       Andere Lösungen versuchen meist, mit mehr Informations-Volumen Mehrwert zu
-      liefern. Aus eigener Erfahrung haben wir gelernt, dass wir nicht mehr
-      Information brauchen. Wir haben ein möglichst einfaches Setup gesucht, das
-      uns schnell und mit geringstmöglichem Aufwand zum Zertifikat bringt. Genau
-      das liefert effectiveISO.
+      liefern. Aus eigener Erfahrung haben wir gelernt: Wir brauchen nicht mehr
+      Information, sondern ein einfaches Setup, das uns schnell und mit
+      geringstmöglichem Aufwand zum Zertifikat bringt. Genau das liefert
+      effectiveISO.
 
 
       ## Warum spare ich mit dem effectiveISO-Ansatz so viel Zeit und Aufwand?
