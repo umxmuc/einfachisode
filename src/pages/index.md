@@ -103,19 +103,21 @@ sections:
       ## Wie ist das sichergestellt?
 
 
-      Überzeugendes Prinzip
+      **Überzeugendes Prinzip**: Alles an einem Ort und Schritt-für-Schritt.
 
 
-      Erfolgreiche Zertifizierung
+      **Erfolgreiche Zertifizierung**: Unser Geschäftsbereich wurde erfolgreich
+      ISO9001 zertifiziert.
 
 
-      Kundenstimmen
+      **Expertenstimmen**: "**Brilliant umgesetzt**" und "**Tolles System, das
+      ich so noch nie gesehen habe.**" war die Rückmeldung unseres Auditors. Ein
+      Lead-Auditor mit über 20 Jahren Berufserfahrung.
 
 
-      Expertenstimmen
-
-
-      Garantie
+      **Garantie**: Testen Sie den Ansatz unverbindlich. Wenn Sie nicht
+      wesentlich mehr Zeit und Geld sparen, als er sie kostet, dann erhalten Sie
+      Ihr Geld zurück.
 
 
       ## Ich bin interessiert! - Wie geht es weiter?
