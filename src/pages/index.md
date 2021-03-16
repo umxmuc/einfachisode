@@ -11,7 +11,7 @@ sections:
         url: /features
         style: primary
       - type: action
-        label: EinfachISO Bestellen
+        label: Kostenlos testen
         url: /themenuebersicht
         style: secondary
     align: left
