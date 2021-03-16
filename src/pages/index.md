@@ -27,7 +27,7 @@ sections:
       background_image_repeat: repeat
   - title: Wo liegt das Problem?
     content: |
-      # Was ist das Problem?
+      ## Was ist das Problem?
 
       Mühsam
 
@@ -39,7 +39,17 @@ sections:
 
       Zeitfresser
 
-      # Was sind die Ursachen?
+      ## Was sind die Ursachen?
+
+      Viele Normforderungen
+
+      Komplizierte Normensprache
+
+      Viele Querverweise
+
+      Integration in Struktur
+
+      Künftige Pflege
     type: content_section
   - title: Was sind die Ursachen?
     content: |
