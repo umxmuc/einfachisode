@@ -236,11 +236,19 @@ sections:
       Die Vorlage ist in Form einer einfachen Datenbank.
 
 
-      ISO Datenbank: 
+      **ISO Datenbank**:  
 
-      Beispieldaten:   
+      **Beispieldaten**:  
 
-      ISO Checkliste:  
+      **ISO Checkliste**:
+
+
+      Das war's. Sie erhalten bewusst nicht mehr, da Sie nicht mehr brauchen, um
+      ein ordentliches QM-System aufzusetzen. Weniger ist mehr. Die Norm ist
+      umfassend genug. Sie brauchen nicht auch noch unmengen an begleitender
+      Dokumentation. Was sie brauchen ist ein robuster Rahmen, in dem Sie sich
+      Schritt-für-Schritt vorarbieten können. Genau diesen Rahmen liefert das
+      effectiveISO System.
 
 
       ### Was sagen Experten zu dem System?
