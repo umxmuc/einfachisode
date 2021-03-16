@@ -197,23 +197,23 @@ sections:
       Das ist viel einfacher, als die Elemente breit zu verteilen.
 
 
-      Norm-Forderungen  
+      Norm-Forderungen\
 
-      Prozesse  
+      Prozesse\
 
-      Interessierte Parteien  
+      Interessierte Parteien\
 
-      Themen  
+      Themen\
 
-      Anforderungen  
+      Anforderungen\
 
-      Maßnahmen  
+      Maßnahmen\
 
-      Dokumentation  
+      Dokumentation\
 
-      Qualitätsziele  
+      Qualitätsziele\
 
-      Rollen  
+      Rollen\
 
       Chancen und Risiken
 
@@ -234,6 +234,13 @@ sections:
       Sie erhalten eine schlüsselfertige Vorlage für ein ISO9001 QM-System. Sie
       müssen diese Vorlage nur noch auf Ihren speziellen Bedarf hin ausfüllen.
       Die Vorlage ist in Form einer einfachen Datenbank.
+
+
+      ISO Datenbank: 
+
+      Beispieldaten:   
+
+      ISO Checkliste:  
 
 
       ### Was sagen Experten zu dem System?
