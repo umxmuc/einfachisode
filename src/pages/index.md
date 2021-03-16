@@ -179,6 +179,13 @@ sections:
       Weil er alle Normforderungen an eine Stelle bringt. Mit einer zentralen
       Anlaufstelle, können Sie auch alles an einem Ort einrichten und pflegen.
       Das ist viel einfacher, als die Elemente breit zu verteilen.
+
+
+      ## Welchem Prinzip folgt der effectiveISO-Ansatz?
+
+
+      Ein System mit vielen Teilen an vielen Stellen ist komplex. Je **weniger
+      Teile** und je **mehr zusammengefasst**, desto einfacher.
     type: content_section
 template: advanced
 ---
