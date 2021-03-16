@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: >-
-      Ein neuartiger Ansatz für eine erfolgreiche ISO9001 Zertifizierung,
-      doppelt so schnell und mit halben Aufwand - Garantiert
+      ISO9001 Zertifizierung, doppelt so schnell und mit halben Aufwand -
+      Garantiert
     actions:
       - type: action
         label: Mehr erfahren
