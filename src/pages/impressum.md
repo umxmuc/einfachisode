@@ -3,9 +3,9 @@ title: Impressum
 excerpt: lorem-ipsum
 template: page
 ---
-effectiveTraffic GmbH
-Lochhamer Schlag 12
-82166 Gräfelfing
+effectiveTraffic GmbH  
+Lochhamer Schlag 12  
+82166 Gräfelfing  
 
 Telefon: +49-(0)89-552633-0
 Telefax: +49-(0)89-552633-22
