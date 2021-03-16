@@ -26,7 +26,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - content: >
-      ## Wo liegt das Problem mit der ISO9001 Zertifizierung?
+      ## Kennen Sie diese Probleme bei der ISO9001 Zertifizierung?
 
 
       Mühsam
@@ -63,6 +63,9 @@ sections:
 
 
       ## Wie sieht die Lösung aus?
+
+
+      Eine gute Lösung beseitigt die größten Probleme auf Basis ihrer Ursachen:
 
 
       **Zentrale Anlaufstelle:**
