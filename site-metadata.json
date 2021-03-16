@@ -15,14 +15,6 @@
                 "type": "action"
             },
             {
-                "label": "Kostenlos starten",
-                "url": "#/ms/signup/60512852ac3e7a0004792099!members",
-                "style": "primary",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Log out",
                 "url": "#/ms/logout",
                 "style": "link",
