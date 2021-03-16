@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: >-
-      Steigern Sie Ihr Geschäft mit neuen Inhalten, die Ihre Kunden und Google
-      begeisten
+      Erfolgreiche ISO9001 Zertifizierung in der halben Zeit, zum halben Aufwand
+      - Garantiert
     actions:
       - type: action
         label: Mehr erfahren
