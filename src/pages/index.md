@@ -88,6 +88,18 @@ sections:
       Weniger Kopfzerbrechen
 
       Geringere Kosten
+
+      Warum?
+
+      Durchdachtes Prinzip
+
+      Alles an einem Ort
+
+      Einfaches Schritt-für-Schritt Vorgehen
+
+      Querverweise einfach gemacht
+
+      Das System wächst mit
     type: content_section
   - title: Warum ist das so?
     content: |
