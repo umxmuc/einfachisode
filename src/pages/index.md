@@ -128,14 +128,18 @@ sections:
       ## Ich bin interessiert! - Wie geht es weiter?
 
 
-      **Schritt 1**: Sie füllen das Anfrageformular aus. 
+      **Schritt 1**: Sie füllen das Anfrageformular aus.
+
 
       **Schritt 2**: Sie erhalten ein unverbindliches Angebot für Ihr
-      EinfachISO-System. 
+      EinfachISO-System.
 
-      **Schritt 3**: Wenn Sie das System zusagt, zahlen Sie einmalig 467,- EUR. 
 
-      **Schritt 4**: Wenn Ihnen das System nicht zusagt, zahlen Sie 0,- EUR. 
+      **Schritt 3**: Wenn Sie das System zusagt, zahlen Sie einmalig 467,- EUR
+      (netto).
+
+
+      **Ihre Garantie**: Wenn Ihnen das System nicht zusagt, zahlen Sie 0,- EUR.
     type: content_section
 template: advanced
 ---
