@@ -44,7 +44,7 @@
             },
             {
                 "label": "Impressum",
-                "url": "lorem-ipsum",
+                "url": "/impressum",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
