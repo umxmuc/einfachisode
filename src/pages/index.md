@@ -161,7 +161,7 @@ sections:
     type: content_section
   - actions:
       - label: Jetzt kostenlos starten
-        url: /start
+        url: '#/ms/signup/60512852ac3e7a0004792099'
         style: primary
         new_window: false
         no_follow: false
