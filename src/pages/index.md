@@ -154,5 +154,6 @@ sections:
     has_background: true
     background_color: gray
     type: cta_section
+    subtitle: 'Einfach hier klicken und '
 template: advanced
 ---
