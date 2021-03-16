@@ -12,7 +12,7 @@ sections:
         style: primary
       - type: action
         label: Kostenlos starten
-        url: /contact
+        url: /themenübersicht
         style: secondary
     align: left
     image: images/hero.svg
