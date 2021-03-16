@@ -8,7 +8,7 @@
         "nav_links": [
             {
                 "label": "Login",
-                "url": "lorem-ipsum",
+                "url": "#/ms/login",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
