@@ -8,7 +8,7 @@ sections:
     actions:
       - type: action
         label: Mehr erfahren
-        url: /features
+        url: 'noC#'
         style: primary
       - type: action
         label: Kostenlos testen
