@@ -25,8 +25,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - title: Wo liegt das Problem?
-    content: |
+  - content: |
       ## Was ist das Problem?
 
       Mühsam
