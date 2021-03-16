@@ -145,7 +145,13 @@ sections:
       Ja, prüfen Sie kostenlos und unverbindlich, ob das EinfachISO System für
       unsere ISO9001 Zertifizierung funktioniert
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
