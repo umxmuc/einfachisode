@@ -65,22 +65,24 @@ sections:
       ## Wie sieht die Lösung aus?
 
 
-      Eine gute Lösung beseitigt die größten Probleme anhand der Ursachen:
+      **Einfaches Konzept**: Begegnen Sie der sperrigen und komplizierten
+      ISO-Norm mit einem einfachen Ansatz. Lassen Sie sich nicht in die Tiefen
+      der Norm hineinziehen, sondern behalten Sie den Überblick und die
+      Oberhand.
 
 
-      **Zentrale Anlaufstelle:** Das QM-System wird nicht möglichst tief in Ihr
-      Unternehmen verteilt und integriert. Denn das schafft Komplexität und
-      Aufwand. Das QM-System wird zentral an einer Stelle gehalten. Dort kann es
-      einfach eingerichtet und gepflegt werden.
+      **Zentrale Anlaufstelle:** Halten Sie Ihr QM-System möglichst zentral an
+      einer Stelle. So können Sie es leichter und schneller einrichten und
+      genauso einfach pflegen.
 
 
-      **Alle Normforderungen als Liste**: Sie haben die Normforderungen nicht
-      verklausuliert im ISO9001-Text, sondern einzeln und vollständig als
-      Checkliste. So können Sie jeden Punkt Schritt-für-Schritt abarbeiten.
+      **Komplette Checkliste**: Nutzen Sie eine vollständige Checkliste, die
+      jede Norm-Forderung enthält. So können Sie jeden Punkt Schritt-für-Schritt
+      abarbeiten.
 
 
-      **Einfache Erklärung der Forderungen**: Die Forderungen der Norm sind
-      eingedeutscht und erklärt.
+      **Einfache Erklärung**: Die Forderungen der Norm sind eingedeutscht und
+      erklärt.
 
 
       **Querverweise vereinfacht**: Die Querverweise sind eine der größten
@@ -92,7 +94,13 @@ sections:
       ## Was haben Sie davon?
 
 
-      **Weniger Zeit**: Sie erreichen Ihre ISO9001-Zertifizierung doppelt so
+      **Weniger Kopfzerbrechen**: Sie haben nicht mehr das Gefühl, von dem
+      "ISO-Projekt" überwältigt zu werden. **Warum?** Weil Sie ein einfaches und
+      vollständiges System nutzen, das alles beisammen hält und Licht ins Dunkel
+      bringt.
+
+
+      **Zeitersparnis**: Sie erreichen Ihre ISO9001-Zertifizierung doppelt so
       schnell. **Warum?** Weil Sie eine schlüsselfertige Lösung haben, die Sie
       nur noch Schritt-für-Schritt durchgehen müssen.
 
@@ -101,12 +109,6 @@ sections:
       Erstzertifizierung und für die Zeit danach. **Warum?** Weil alles, was Sie
       brauchen an einer Zentralen Stelle bleibt. Das macht Ihr QM-System
       einfacher und leichter zu handhaben.
-
-
-      **Weniger Kopfzerbrechen**: Sie haben nicht mehr das Gefühl, von dem
-      "ISO-Projekt" überwältigt zu werden. Warum? Weil Sie ein einfaches und
-      vollständiges System nutzen, das alles beisammen hält und Licht ins Dunkel
-      bringt.
 
 
       **Geringere Kosten**: Sie sparen Ihre eigne Zeit, die Ihrer Kollegen und
@@ -137,7 +139,7 @@ sections:
       Ihr Geld zurück.
 
 
-      ## Ich bin interessiert! - Wie geht es weiter?
+      ## Ich bin interessiert - Wie geht es weiter?
 
 
       **Schritt 1**: Sie füllen das Anfrageformular aus.
