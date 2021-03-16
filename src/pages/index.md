@@ -81,7 +81,7 @@ sections:
 
       Garantie:
     type: content_section
-  - title: lorem-ipsum
+  - title: Was ist die Lösung?
     content: >-
       ## Lorem ipsum
 
