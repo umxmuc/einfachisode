@@ -70,8 +70,8 @@ sections:
       einer Stelle haben.
 
 
-      Ob in Eigenregie oder mit Beratung, Sie machen sich damit die Aufgabe
-      einfacher, schneller und günstiger.
+      Ob in Eigenregie oder mit Beratung, Sie erreichen Ihr ISO9001 Zertifikat
+      damit einfacher, schneller und günstiger.
 
 
       ## Warum ist das so?
