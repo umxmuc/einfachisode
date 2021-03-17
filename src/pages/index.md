@@ -26,40 +26,26 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - content: >
-      ## Kennen Sie diese Probleme bei der ISO9001 Zertifizierung?
+      ## Was sind die Probleme bei der ISO9001 Zertifizierung?
 
 
-      Mühsam
+      Die ISO9001 stellt viele Forderungen, dass macht die Aufgabe umfassend
 
 
-      Aufwändig
+      Die Normensprache ist teils kompliziert, das wirft viele Fragen auf
 
 
-      Kompliziert
+      Die Norm hat viele Querverweise, dadurch wird es schwierig, den Überblick
+      zu behalten
 
 
-      Pain in the ass
+      Die Forderungen sollen in Ihre Struktur integriert werden, das ist
+      aufwändig und kompliziert.
 
 
-      Zeitfresser
-
-
-      ## Was sind die Ursachen?
-
-
-      Viele Normforderungen
-
-
-      Komplizierte Normensprache
-
-
-      Viele Querverweise
-
-
-      Integration in Struktur
-
-
-      Künftige Pflege
+      In der Summe kann einem das Projekt leicht über den Kopf wachsen. Dann
+      wird es mühsam, kompliziert und ein Zeitfresser. Kurz gesagt, es kann zur
+      Qual werden.
 
 
       ## Wie sieht die Lösung aus?
