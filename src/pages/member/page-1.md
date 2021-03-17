@@ -3,9 +3,6 @@ title: Willkommen!
 excerpt: lorem-ipsum
 template: page
 ---
-## Willkommen auf Seite 1
+Vielen Dank, dass Sie das effectiveISO System testen wollen.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-*   Lorem ipsum
-*   dolor sit amet
+Bitte sehen Sie sich dazu das folgende Video an:
