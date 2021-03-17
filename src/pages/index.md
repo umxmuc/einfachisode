@@ -131,15 +131,16 @@ sections:
       **Schritt 1**: Sie füllen das Anfrageformular aus.
 
 
-      **Schritt 2**: Sie erhalten ein unverbindliches Angebot für Ihr
-      EinfachISO-System.
+      **Schritt 2**: Sie erhalten kostenlos und unverbindlich Zugang zum
+      effectiveISO System.
 
 
       **Schritt 3**: Wenn Sie das System zusagt, zahlen Sie einmalig 467,- EUR
       (netto).
 
 
-      **Ihre Garantie**: Wenn Ihnen das System nicht zusagt, zahlen Sie 0,- EUR.
+      Sie gehen kein Risiko ein. Wenn Ihnen das System nicht zusagt, zahlen Sie
+      0,- EUR.
     type: content_section
   - actions:
       - label: Jetzt kostenlos starten
