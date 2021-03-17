@@ -101,7 +101,7 @@ sections:
       **Zeitersparnis** durch eine schlüsselfertige Schritt-für-Schritt Lösung,
 
 
-      **Weniger Aufwand **durch ein schlankeres QM-System.
+      **Weniger Aufwand** durch ein schlankeres QM-System.
 
 
       **Einfacheres Audit**, da alle Daten und Informationen online an einer
