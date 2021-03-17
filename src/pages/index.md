@@ -48,7 +48,7 @@ sections:
 
 
       **Sie beißen sich durch**. Das geht, ist aber aufwändig, teuer und kostet
-      nerven.
+      Nerven.
 
 
       **Sie holen sich externe Beratung**. Das ist sinnvoll, führt aber nicht
