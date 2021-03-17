@@ -38,7 +38,7 @@ sections:
       **Zahlreiche Querverweise** erschweren den Überblick
 
 
-      **Integration in Ihre Struktur **ist aufwändig und kompliziert
+      **Integration in Ihre Struktur** ist aufwändig und kompliziert
 
 
       In der Summe kann kann das ISO9001 Projekt zur Qual werden.
