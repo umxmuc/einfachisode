@@ -77,30 +77,18 @@ sections:
       ## Warum ist das so?
 
 
-      **Einfaches Konzept**: Begegnen Sie der sperrigen und komplizierten
-      ISO-Norm mit einem einfachen Ansatz. Lassen Sie sich nicht in die Tiefen
-      der Norm hineinziehen, sondern behalten Sie den Überblick und die
-      Oberhand.
+      Mit einem zentralen System haben Sie fast alles an einer einzigen Stelle.
 
 
-      **Zentrale Anlaufstelle:** Halten Sie Ihr QM-System möglichst zentral an
-      einer Stelle. So können Sie es leichter und schneller einrichten und
-      genauso einfach pflegen.
+      Ihr QM-System wird dadurch schlanker, einfacher zu erstellen und leichter
+      zu pflegen.
 
 
-      **Komplette Checkliste**: Nutzen Sie eine vollständige Checkliste, die
-      jede Norm-Forderung enthält. So können Sie jeden Punkt Schritt-für-Schritt
-      abarbeiten.
+      Mit einer kompletten Checkliste erfüllen Sie jede Norm-Forderung
+      Schritt-für-Schritt.
 
 
-      **Einfache Erklärung**: Die Forderungen der Norm sind eingedeutscht und
-      erklärt.
-
-
-      **Querverweise vereinfacht**: Die Querverweise sind eine der größten
-      Hürden bei der ISO9001-Zertifizierung. Eine gute Lösung vereinfacht sie
-      und fasst sie zusammen. Sie haben alles im Überblick. Der Nebel lichtet
-      sich.
+      Durch das Datenbank-Konzept sind Querverweise ein "Kinderspiel".
 
 
       ## Was haben Sie davon?
