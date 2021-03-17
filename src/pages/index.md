@@ -66,18 +66,18 @@ sections:
       angehen.
 
 
-      Die Lösung ist ein **Datenbank-Basiertes Konzept**, bei dem Sie alles an
+      Die Lösung ist ein **Datenbank-basiertes Konzept**, bei dem Sie alles an
       einer Stelle haben.
 
 
-      Ob in Eigenregie oder mit Beratung, Sie erreichen Ihr ISO9001 Zertifikat
-      damit einfacher, schneller und günstiger.
+      Ob in Eigenregie oder mit Beratung, Sie erreichen Ihr ISO9001-Zertifikat
+      damit in aller Regel einfacher, schneller und günstiger.
 
 
       ## Warum ist das so?
 
 
-      Mit einem zentralen System haben Sie fast alles an einer einzigen Stelle.
+      Mit einem zentralen System haben Sie fast alles an einer Stelle.
 
 
       Ihr QM-System wird dadurch schlanker, einfacher zu erstellen und leichter
@@ -94,31 +94,18 @@ sections:
       ## Was haben Sie davon?
 
 
-      **Weniger Kopfzerbrechen**: Sie haben nicht mehr das Gefühl, von dem
-      "ISO-Projekt" überwältigt zu werden. **Warum?** Weil Sie ein einfaches und
-      vollständiges System nutzen, das alles beisammen hält und Licht ins Dunkel
-      bringt.
+      **Weniger Kopfzerbrechen** durch ein schlüssiges System, das alles
+      beisammen hält und Licht ins Dunkel bringt.
 
 
-      **Zeitersparnis**: Sie erreichen Ihre ISO9001-Zertifizierung doppelt so
-      schnell. **Warum?** Weil Sie eine schlüsselfertige Lösung haben, die Sie
-      nur noch Schritt-für-Schritt durchgehen müssen.
+      **Zeitersparnis** durch eine schlüsselfertige Schritt-für-Schritt Lösung,
 
 
-      **Weniger Aufwand**: Sie reduzieren Ihren Aufwand für die
-      Erstzertifizierung und für die Zeit danach. **Warum?** Weil alles, was Sie
-      brauchen an einer Zentralen Stelle bleibt. Das macht Ihr QM-System
-      einfacher und leichter zu handhaben.
+      **Weniger Aufwand **durch ein schlankeres QM-System.
 
 
-      **Einfacheres Audit**: Stellen Sie sich vor, sie haben 90% aller für das
-      Audit notwendigen Daten und Informationen online an einer Stelle.
-
-
-      **Geringere Kosten**: Sie sparen Ihre eigne Zeit, die Ihrer Kollegen und
-      Vorgesetzen und Sie sparen Beraterkosten. **Warum?** Da Sie ein einfaches
-      und in sich schlüssiges Setup haben, das auf einem durchdachten Prinzip
-      basiert.
+      **Einfacheres Audit**, da alle Daten und Informationen online an einer
+      Stelle sind.
 
 
       ## Wie ist das sichergestellt?
