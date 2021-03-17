@@ -128,17 +128,17 @@ sections:
       ## Ich bin interessiert - Wie geht es weiter?
 
 
-      **Schritt 1**: Sie füllen das Anfrageformular aus.
+      **Schritt 1**: Sie füllen das Formular aus
 
 
-      **Schritt 2**: Sie erhalten kostenlos und unverbindlich Zugang zum
-      effectiveISO System.
+      **Schritt 2**: Sie erhalten Zugang zum effectiveISO System
 
 
-      **Schritt 3**: Wenn Sie das System zusagt, zahlen Sie einmalig 467,- EUR
-      (netto).
+      **Schritt 3**: Sie testen kostenlos und unverbindlich, ob das System Ihnen
+      hilft
 
 
+      Wenn Sie das System nutzen wollen, zahlen Sie einmalig 467,- EUR (netto).
       Sie gehen kein Risiko ein. Wenn Ihnen das System nicht zusagt, zahlen Sie
       0,- EUR.
     type: content_section
