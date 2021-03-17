@@ -77,7 +77,11 @@ sections:
       ## Warum ist das so?
 
 
-      Mit einem zentralen System haben Sie fast alles an einer Stelle.
+      Mit einem zentralen, Datenbank-basierten System haben Sie fast alles an
+      einer Stelle.
+
+
+      Solch ein System hat weniger Teile und ist weniger verstreut.
 
 
       Ihr QM-System wird dadurch schlanker, einfacher zu erstellen und leichter
