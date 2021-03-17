@@ -44,9 +44,6 @@ sections:
       In der Summe kann kann das ISO9001 Projekt zur Qual werden.
 
 
-      Das muss aber nicht sein:
-
-
       ## Wie sieht die Lösung aus?
 
 
