@@ -29,7 +29,7 @@ sections:
       ## Was sind die Probleme bei der ISO9001 Zertifizierung?
 
 
-      **Viele Forderungen** machen die Aufgabe umfassend
+      **Viele Norm-Forderungen** machen die Aufgabe umfassend
 
 
       **Komplizierte Normensprache** wirft viele Fragen auf
