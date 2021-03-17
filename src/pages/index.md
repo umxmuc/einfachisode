@@ -44,7 +44,37 @@ sections:
       In der Summe kann kann das ISO9001 Projekt zur Qual werden.
 
 
-      ## Wie sieht die Lösung aus?
+      ## Wie sehen gängige Lösungen aus?
+
+
+      **Sie beißen sich durch**. Das geht, ist aber aufwändig, teuer und kostet
+      nerven.
+
+
+      **Sie holen sich externe Beratung**. Das ist sinnvoll, führt aber nicht
+      unbedingt zur einfachsten Lösung.
+
+
+      Häufig ist eine Mischung aus beidem. Ein langgezogenes, aufwändiges
+      Projekt.
+
+
+      ## Gibt es eine Alternative?
+
+
+      Ja, wenn Sie die Aufgabe mit einer **grundsätzlich einfacheren Lösung**
+      angehen.
+
+
+      Die Lösung ist ein **Datenbank-Basiertes Konzept**, bei dem Sie alles an
+      einer Stelle haben.
+
+
+      Ob in Eigenregie oder mit Beratung, Sie machen sich damit die Aufgabe
+      einfacher, schneller und günstiger.
+
+
+      ## Warum ist das so?
 
 
       **Einfaches Konzept**: Begegnen Sie der sperrigen und komplizierten
